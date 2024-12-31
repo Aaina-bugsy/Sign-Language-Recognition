@@ -46,15 +46,10 @@ This project uses a publicly available dataset or custom-created images/videos o
 
 ## Folder Structure
 ```
-slr-system/
-├── data/                  # Dataset files
-├── models/                # Pre-trained and trained models
-├── scripts/               # Scripts for training and testing
-├── tests/                 # Unit tests
-├── requirements.txt       # Python dependencies
-├── train_model.py         # Model training script
-├── recognize_gesture.py   # Gesture recognition script
-└── README.md              # Project documentation
+Sign-Language-Recognition/
+├── Sign_Language_Recognition.ipynb               
+├── slr.py               
+
 ```
 
 ## Contributing
